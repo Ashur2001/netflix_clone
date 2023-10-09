@@ -1,0 +1,14 @@
+.about_container{
+    display: flex;
+    
+    color:rgb(255, 255, 255);
+    position: relative;
+    margin-top: 22rem;
+
+   
+}
+.tv{
+    width: 30rem;
+    margin-right: 10rem;
+  
+}

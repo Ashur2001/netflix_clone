@@ -1,0 +1,56 @@
+.header_container{
+    text-align: center;
+    height: 100%;
+    position:relative;
+
+   
+} 
+header{
+    background-image: url("../../assist/back.jpg");
+    padding-top: 1rem;
+   
+}
+.me_img > img{
+   width: 11rem;
+  margin-right: 70rem;
+   
+}
+.log{
+ 
+  
+    margin-left: 80rem;
+    gap:2rem;
+    display:inline-flex;
+    
+
+
+    
+}
+.header_container h1{
+   color:var(--color-white);
+   font-size: 3rem;
+   margin-top: 10rem;;
+ 
+   
+}
+
+.header_container h2,h3{
+    color:var(--color-white)
+    
+}
+.but{
+  height: 3rem;  
+  width: 19rem;
+  border: 2px solid rgba(255, 255, 255, 0.429);
+  background-color: rgba(0, 0, 0, 0.358);
+  border: rem;
+  color: aliceblue;
+  font-size: large;
+}
+.get{
+   background-color: brown;
+   color: aliceblue;
+   width: 8rem;
+   height: 3rem;
+
+}
